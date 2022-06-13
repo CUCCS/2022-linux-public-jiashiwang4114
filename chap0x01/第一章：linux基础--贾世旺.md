@@ -34,7 +34,7 @@ Ubuntu 20.04.02 Server 64bit
 
 `lsb_release -a`
 
-![发行版本](.img\发行版本.png)
+![发行版本](.img/发行版本.png)
 
 
 可以得到当前Ubuntu的发行版本代号为：20.04
