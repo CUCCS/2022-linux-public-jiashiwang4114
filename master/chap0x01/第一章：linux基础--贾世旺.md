@@ -51,7 +51,7 @@ Ubuntu 20.04.02 Server 64bit
 
   `uname -a`
 
-  ![内核版本](.img\内核版本.png)
+  ![内核版本](.img/内核版本.png)
 
 可知当前所用Ubuntu20.04的内核版本为：5.4.0-65-generic
 
